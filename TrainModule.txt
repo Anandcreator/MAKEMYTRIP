@@ -1,2 +1,6 @@
 Scenario 1 : Chennai to Delhi
 Scenario 2 : Bangalore to Goa
+Scenario 3 : Pune to Delhi
+Scenario 4 : Kerela to Chennai
+Scenario 5 : Mumbai to Delhi
+Scenario 6 : bng to che
