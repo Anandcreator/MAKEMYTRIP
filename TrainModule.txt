@@ -5,4 +5,6 @@ Scenario 3 : Mumbai to Pune
 
 Scenario 7 : Mumbai to Pune
 Scenario 8 : Kerela to Che
+                  //updated by Bhargava raman
+Scenario 9: ticket cancel for all locations
 
