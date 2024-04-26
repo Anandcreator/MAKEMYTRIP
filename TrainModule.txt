@@ -1,8 +1,8 @@
 Scenario 1 : Chennai to Delhi
 Scenario 2 : Bangalore to Goa
-<<<<<<< HEAD
+
 Scenario 3 : Mumbai to Pune
-=======
+
 Scenario 7 : Mumbai to Pune
 Scenario 8 : Kerela to Che
->>>>>>> TrainMMT
+
